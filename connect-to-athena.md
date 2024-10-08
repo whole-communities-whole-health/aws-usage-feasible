@@ -27,8 +27,8 @@ the Athena option to go to the Athena query editor.
 ## 5. One time setup of Athena settings 
 The Athena query editor is where you will have access to collected Fitbit data. 
 On the main Athena window, the first thing to do is adjust default settings. This 
-is a one time task. Select the settings option from the navigation bar on top of 
-the page.
+is a one time task and one I expect to automate for users in the future. Select 
+the settings option from the navigation bar on top of the page.
 
 <img src="images/settings-main.png" alt="hi" class="inline"/>
 
@@ -37,8 +37,7 @@ the page.
 <img src="images/settings-manage.png" alt="hi" class="inline"/>
 
 ## 7. Select query location
-Click browse and select "feas-prod-athena-queries" and then the orange choose 
-button.
+Click browse and select "feas-prod-athena-queries."
 
 <img src="images/settings-browse.png" alt="hi" class="inline"/>
 
@@ -55,21 +54,21 @@ Choose the editor tab from the navigation bar to go back to the editor screen.
 
 ## 10. Final setup
 Make sure your region is US East (Ohio), your workgroup is "primary" and that the 
-database selection is "feas_prod_athena_db." These options will be selected for you 
-in the future. 
+database selection is "feas_prod_athena_db." These options will be auto selected 
+for you in the future. 
 
 <img src="images/settings-athena.png" alt="hi" class="inline"/>
 
 ## 11. Query the data
 You will now see the data tables you are able to query on the left side of the 
 screen. There are a couple SQL queries to get you started on the "saved queries" 
-tab on the navigation bar. The download button will allow you to save the results 
-of a query in CSV format.
+tab on the navigation bar. The "download results" button will allow you to save 
+the results of a query in CSV format.
 
 <img src="images/tables-saved.png" alt="hi" class="inline"/>
 
 ## 12. Save queries you write
-Use the three vertical dots hidden menu next to the query number to save queries 
-you want to use again.
+You can write your own queries and save them. Use the three vertical dots hidden 
+menu next to the query number to save queries you want to use again.
 
 <img src="images/save-as.png" alt="hi" class="inline"/>
