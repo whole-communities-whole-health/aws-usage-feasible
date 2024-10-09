@@ -72,3 +72,6 @@ You can write your own queries and save them. Use the three vertical dots hidden
 menu next to the query number to save queries you want to use again.
 
 <img src="images/save-as.png" alt="hi" class="inline"/>
+
+\
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhole-communities-whole-health%2Faws-usage-feasible%2Fblob%2Fmain%2Fconnect-to-athena.md&count_bg=%235C93CC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
