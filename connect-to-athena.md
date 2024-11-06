@@ -3,7 +3,10 @@
 AWS Athena is a SQL query editor that will allow you to retrieve data from the database.
 
 ## 1. Login with UT EID and password
-You will be able to log into AWS using your UT EID and password. Direct login link: https://utexas.awsapps.com/start#/
+Go to https://myapplications.microsoft.com, sign in if required, and search for 
+"AWS-utexas." Click that icon and you will be redirected to the AWS access portal.
+
+<img src="images/microsoft.png" alt="hi" class="inline"/>
 
 ## 2. AWS access portal page
 The AWS access portal page has an orange icon. Select the label "KHED-feasible-main" 
