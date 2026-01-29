@@ -1,6 +1,6 @@
 # FEASible group AWS documentation 
 This repository will contain instructions for researchers working with AWS. For now,
-[connect to athena.md](connect-to-athena.md) will walk you through logging into
+[connect to athena.md](https://github.com/whole-communities-whole-health/wcwh-hornsense-aws-usage/blob/main/connect-to-athena.md) will walk you through logging into
 the AWS Athena query editor for the first time.
 
 \
